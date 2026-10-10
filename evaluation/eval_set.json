@@ -1,0 +1,129 @@
+[
+  {
+    "question": "What is the foreclosure charge if I close my personal loan after 26 months?",
+    "source": "sample_5.pdf",
+    "answer_contains": [
+      "1.5%",
+      "outstanding principal",
+      "18% GST"
+    ]
+  },
+  {
+    "question": "Can I close my personal loan within 3 months of getting it?",
+    "source": "sample_5.pdf",
+    "answer_contains": [
+      "not permitted",
+      "6 months"
+    ]
+  },
+  {
+    "question": "What is the minimum credit score required by FinBase for personal loans?",
+    "source": "sample_5.pdf",
+    "answer_contains": [
+      "720"
+    ]
+  },
+  {
+    "question": "What is the minimum balance required for a FinBase Digital Savings Account?",
+    "source": "sample_4.pdf",
+    "answer_contains": [
+      "zero-balance",
+      "no Minimum Average Balance"
+    ]
+  },
+  {
+    "question": "What is the cost of the virtual debit card?",
+    "source": "sample_4.pdf",
+    "answer_contains": [
+      "free"
+    ]
+  },
+  {
+    "question": "What interest rate do I get if my account balance is 500000?",
+    "source": "sample_4.pdf",
+    "answer_contains": [
+      "3.50%",
+      "6.00%"
+    ]
+  },
+  {
+    "question": "My UPI transaction failed but money was deducted. When will I receive a refund?",
+    "source": "sample_2.pdf",
+    "answer_contains": [
+      "refund",
+      "T+2 business days"
+    ]
+  },
+  {
+    "question": "What is the foreign currency markup on the FinBase Luxe card?",
+    "source": "sample_3.pdf",
+    "answer_contains": [
+      "markup"
+    ]
+  },
+  {
+    "question": "Does the FinBase Neo card have any annual or joining fees?",
+    "source": "sample_3.pdf",
+    "answer_contains": [
+      "fee"
+    ]
+  },
+  {
+    "question": "What documents are required to complete Video KYC verification?",
+    "source": "sample_6.pdf",
+    "answer_contains": [
+      "Video KYC",
+      "PAN"
+    ]
+  },
+  {
+    "question": "What are the operating hours for Video KYC agents?",
+    "source": "sample_6.pdf",
+    "answer_contains": [
+      "KYC"
+    ]
+  },
+  {
+    "question": "When does an account become dormant due to inactivity?",
+    "source": "sample_6.pdf",
+    "answer_contains": [
+      "dormant"
+    ]
+  },
+  {
+    "question": "What is the interest rate for senior citizens on a 1-year Fixed Deposit?",
+    "source": "sample_1.pdf",
+    "answer_contains": [
+      "8.00%",
+      "0.50%"
+    ]
+  },
+  {
+    "question": "What penalty is charged if I break my Fixed Deposit before maturity?",
+    "source": "sample_1.pdf",
+    "answer_contains": [
+      "penalty"
+    ]
+  },
+  {
+    "question": "How can I avoid TDS deduction on my fixed deposit interest earnings?",
+    "source": "sample_1.pdf",
+    "answer_contains": [
+      "TDS"
+    ]
+  },
+  {
+    "question": "Does FinBase provide Bitcoin wallets?",
+    "source": "sample_1.pdf",
+    "answer_contains": [
+      "does NOT",
+      "cryptocurrency"
+    ]
+  },
+  {
+    "question": "What is the weather forecast for Delhi tomorrow?",
+    "source": "sample_1.pdf",
+    "answer_contains": [],
+    "not_found": true
+  }
+]

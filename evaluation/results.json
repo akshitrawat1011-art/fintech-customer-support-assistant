@@ -1,0 +1,10 @@
+{
+  "cases": 17,
+  "answerable_cases": 16,
+  "retrieval_hit_at_5": 1.0,
+  "mrr_at_5": 1.0,
+  "answer_keyword_accuracy": 1.0,
+  "citation_accuracy": 1.0,
+  "grounded_response_rate": 1.0,
+  "not_found_detection": 1.0
+}
